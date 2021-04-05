@@ -1,0 +1,97 @@
+{
+    "name" : "manufacturer",
+    "displayName" : "Manufacturer",
+    "default" : "Samsung",
+    "entries" : {
+            "Samsung" : {
+                    "name" : "model",
+                    "displayName" : "Model",
+                    "default" : "Galaxy S6",
+                    "entries" : {
+                            "Galaxy S6" : {
+                                    'length' : 143.45 * millimeter,
+                                    'width' : 70.35 * millimeter,
+                                    'height' : 7.18 * millimeter,
+                                    'filletMinRadius' : 2 * millimeter,
+                                    'cornerRadius' : 9.25 * millimeter,
+                                    'volumeBtnWidth' : 26 * millimeter,
+                                    'volumeBtnWidthOffset': 0 * millimeter,
+                                    'volumeBtnOffset' : 111.95 * millimeter,
+                                    'volumeBtnSide' : LeftRight.LEFT,
+                                    'powerBtnWidth' : 16 * millimeter,
+                                    'powerBtnWidthOffset' : 0 * millimeter,
+                                    'powerBtnOffset' : 89.45000 * millimeter,
+                                    'powerBtnSide' : LeftRight.RIGHT,
+                                    'bridgeThresh' : 10 * millimeter,
+                                    'camXOffset' : 0 * millimeter,
+                                    'camYOffset' : 48.87500 * millimeter,
+                                    'camWidth' : 15.5 * millimeter,
+                                    'camHeight' : 15.5 * millimeter,
+                                    'camThickness' : 1.475 * millimeter,
+                                    'powerPortWidth' : 12 * millimeter,
+                                    'powerPortWidthOffset' : 0 * millimeter
+                                }
+                        }
+                },
+            "Google" : {
+                "name" : "model",
+                "displayName" : "Model",
+                "default" : "Pixel 2 XL",
+                "entries" : {
+                        "Pixel 2 XL" : {
+                                'length' : 157.9 * millimeter,
+                                'width' : 76.7 * millimeter,
+                                'height' : 7.9 * millimeter,
+                                'filletMinRadius' : 2.54 * millimeter,
+                                'cornerRadius' : 7.62 * millimeter ,
+                                'volumeBtnWidth' : 20.87811 * millimeter,
+                                'volumeBtnWidthOffset' : 2 * millimeter,
+                                'volumeBtnOffset' : 86.45721 * millimeter,
+                                'volumeBtnSide' : LeftRight.RIGHT,
+                                'powerBtnWidth' : 10.27050 * millimeter,
+                                'powerBtnWidthOffset' : 2 * millimeter,
+                                'powerBtnOffset' : 114.71452 * millimeter,
+                                'powerBtnSide' : LeftRight.RIGHT,
+                                'bridgeThresh' : 10 * millimeter,
+                                'camXOffset' : 23.10175 * millimeter,
+                                'camYOffset' : 63.07580 * millimeter,
+                                'camWidth' : 10.748 * millimeter,
+                                'camHeight' : 10.748 * millimeter,
+                                'camThickness' : 0.508 * millimeter,
+                                'powerPortWidth' : 8.86030 * millimeter,
+                                'powerPortWidthOffset' : 2 * millimeter
+                            }
+                    }
+            },
+            "Apple" : {
+                    "name" : "model",
+                    "displayName" : "Model",
+                    "default" : "Iphone X",
+                    "entries" : {
+                            "Iphone X" : {
+                                    'length' : 143.6 * millimeter,
+                                    'width' : 70.94000 * millimeter,
+                                    'height' : 8.550 * millimeter,
+                                    'filletMinRadius' : 3.425 * millimeter,
+                                    'cornerRadius' : 7 * millimeter,
+                                    'volumeBtnWidth' : 36 * millimeter,
+                                    'volumeBtnWidthOffset' : 0 * millimeter,
+                                    'volumeBtnOffset' : 107.26582 * millimeter,
+                                    'volumeBtnSide' : LeftRight.LEFT,
+                                    'powerBtnWidth' : 19 * millimeter,
+                                    'powerBtnWidthOffset' : 0 * millimeter,
+                                    'powerBtnOffset' : 102.21086 * millimeter,
+                                    'powerBtnSide' : LeftRight.RIGHT,
+                                    'bridgeThresh' : 10 * millimeter,
+                                    'camXOffset' : 23.84000 * millimeter,
+                                    'camYOffset' : 53.83000 * millimeter,
+                                    'camWidth' : 11.26000 * millimeter,
+                                    'camHeight' : 24.13000 * millimeter,
+                                    'camThickness' : 0.39000 * millimeter,
+                                    'powerPortWidth' : 12 * millimeter,
+                                    'powerPortWidthOffset' : 0 * millimeter
+                                }
+                        }
+                }
+        }
+};
